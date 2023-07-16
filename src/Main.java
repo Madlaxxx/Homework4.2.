@@ -5,6 +5,6 @@ public class Main {
         int kg = 98;
         int index = service.calculate(meter, kg);
 
-        System.out.println(index);
+        System.out.println(index);git a
     }
 }
